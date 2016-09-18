@@ -89,7 +89,8 @@
 			ict.drawImage(this.srcimg, 100, 100, 800, 800);
 			this.loaded = true;
 		}.bind(this);
-		this.srcimg.src = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/222599/' + img;
+		this.srcimg.src = 'images/' + img;
+		//this.srcimg.src = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/222599/' + img;
 		this.text = document.createElement('canvas');
 		this.text.width = 1000;
 		this.text.height = 300;
@@ -348,48 +349,48 @@
 
 	objects.push(
 		new Pict(
-			'bl112.jpg',
-			'he knew', "No explanation needed",
+			'IMG_0003.jpg',
+			'título', "descripción",
 			-1,-.8,.8,2,1.4
 		)
 	);
 
 	objects.push(
 		new Pict(
-			'sf48.jpg',
-			'New life', "Here you come!",
+			'IMG_0004.jpg',
+			'título', "descripción",
 			-2,-0.7,.4,2,1.4
 		)
 	);
 
 	objects.push(
 		new Pict(
-			'ct137.jpg',
-			'Inside', "I'm now trapped, without hope of escape",
+			'IMG_0005.jpg',
+			'título', "descripción",
 			0.5,-.6,.2,2,1.4
 		)
 	);
 
 	objects.push(
 		new Pict(
-			'ct60.jpg',
-			'Discoveries', "are made by not following instructions",
+			'IMG_0006.jpg',
+			'título', "descripción",
 			-1.5,-.8,0,1.5,2
 		)
 	);
 
 	objects.push(
 		new Pict(
-			'bl201.jpg',
-			'Nonexistance', "There's no such thing",
+			'IMG_0007.jpg',
+			'título', "descripción",
 			.5,-1,-.4,1.5,2
 		)
 	);
 
 	objects.push(
 		new Pict(
-			'ct41.jpg',
-			'Much work', "remains to be done",
+			'IMG_0008.jpg',
+			'título', "descripción",
 			-2,-1,-.8,1.5,2
 		)
 	);
