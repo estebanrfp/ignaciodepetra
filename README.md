@@ -5,10 +5,7 @@ The secret of each photographer depends on the ability to see, influence, modify
 [WebGL Museum](https://estebanrfp.github.io/ignaciodepetra/)
 
 ## Works
-- Markdown
-- Drag & Drop Cards and Columns
-- Add, Edit, Remove Cards
-- Add, Edit, Remove Columns
+- Identidad Espacio Tiempo
 
 ## ScreenShoot
 
