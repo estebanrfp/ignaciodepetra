@@ -19,6 +19,13 @@ After a period of experimentation develops its own creative perception, where th
 
 ![GitHub Logo](docs/ignaciodepetra.jpg)
 
+## Links
+
+http://ignaciodepetra.wordpress.com/about/
+
+http://www.lindelepalais.com/it-IT/donna/designer/ignacio_de_petra
+
+
 -------------
 
 #### Credits & Thanks
