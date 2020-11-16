@@ -19,7 +19,9 @@ After a period of experimentation develops its own creative perception, where th
 
 ![GitHub Logo](docs/ignaciodepetra.jpg)
 
-![museum](docs/museum.mp4)
+<video width="100%" height="240px" controls>
+  <source src="docs/museum.mp4">
+</video>
 
 ## Links
 
